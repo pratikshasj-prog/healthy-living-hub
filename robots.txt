@@ -1,0 +1,8 @@
+# Robots.txt for Healthy Living Hub
+# Academic Digital Marketing Project - Crawl and Indexation Directives
+
+User-agent: *
+Allow: /
+
+# XML Sitemap Pointer for Search Engines & Google Search Console
+Sitemap: https://healthylivinghub.local/sitemap.xml
